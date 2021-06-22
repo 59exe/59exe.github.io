@@ -1,0 +1,75 @@
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(247, 220, 185);
+    overflow-x: scroll;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #08f;
+    display: block;
+    transition: color 0.2s;
+    font-family: arial;
+}
+
+.sidenav p {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(0, 19, 37);
+    display: block;
+    transition: color 0.2s;
+    font-family: arial;
+}
+
+.sidenav a:hover {
+    color: rgb(79, 252, 102);
+}
+
+h1 {
+    font-family: helvetica;
+    margin-left: 160px;
+}
+
+h2 {
+    font-family: arial;
+    margin-left: 160px;
+}
+
+h3 {
+    font-family: arial;
+    margin-left: 160px;
+}
+
+hr {
+    font-family: arial;
+    margin-left: 160px;
+}
+
+
+img {
+    font-family: arial;
+    margin-left: 160px;
+}
+
+.main {
+    font-family: arial;
+    margin-left: 160px;
+}
+
+.boxed {
+    border: 3px solid blue;
+    font-family: arial;
+}
+
+.boxed p {
+    margin-left: 160px;
+}
