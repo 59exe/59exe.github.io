@@ -5,7 +5,7 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: rgb(247, 220, 185);
+    background-color: #02f;
     overflow-x: scroll;
     padding-top: 10px;
 }
@@ -14,7 +14,7 @@
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #08f;
+    color: #09f;
     display: block;
     transition: color 0.2s;
     font-family: arial;
@@ -31,7 +31,7 @@
 }
 
 .sidenav a:hover {
-    color: rgb(79, 252, 102);
+    color: rgb(255, 255, 255);
 }
 
 p {
