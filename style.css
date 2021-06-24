@@ -94,3 +94,9 @@ img {
 .boxed p {
     margin-left: 160px;
 }
+
+a {
+    font-family:monospace;
+    margin-left:160px;
+    color: #09f;
+}
